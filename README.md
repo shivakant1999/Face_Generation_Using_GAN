@@ -1,4 +1,4 @@
-Generative Adversial Neural Network (GAN) defined and train to generate new Faces. This project was completed as part of Udacity's Deep Learning Nanodegree program.
+Generative Adversial Neural Network (GAN) defined and trained to generate new Faces. This project was completed as part of Udacity's Deep Learning Nanodegree program.
 
 # Project Overview
 This project focuses on creating a GAN in PyTorch that can learn to generate new Faces.
